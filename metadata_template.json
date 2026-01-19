@@ -1,0 +1,15 @@
+{
+  "name": "CyberPunk #1",
+  "description": "A unique generated NFT.",
+  "image": "ipfs://QmYourImageHash/1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ]
+}
